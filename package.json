@@ -1,7 +1,7 @@
 {
 	"name": "rn-hw-scanner",
 	"title": "React Native Honeywell Scanner",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Bridge to use the Honeywell scanner",
 	"main": "src/index.ts",
 	"types": "src/index.d.ts",
