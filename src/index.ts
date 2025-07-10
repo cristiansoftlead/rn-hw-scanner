@@ -8,7 +8,7 @@ const { HoneywellScanner } = NativeModules;
  * @param  {Function} handler Event handler
  */
 
-const barcodeReaderEmitter = new NativeEventEmitter(HoneywellScanner);
+const barcodeReaderEmitter = new NativeEventEmitter();
 
 var subscriptionBarcodeReadSuccess = null;
 var subscriptionBarcodeReadFail = null;
