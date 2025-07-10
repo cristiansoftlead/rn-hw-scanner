@@ -1,0 +1,38 @@
+{
+	"name": "rn-hw-scanner",
+	"title": "React Native Honeywell Scanner",
+	"version": "0.0.1",
+	"description": "Bridge to use the Honeywell scanner",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cristiansoftlead/rn-hw-scanner.git",
+		"baseUrl": "https://github.com/cristiansoftlead/rn-hw-scanner.git"
+	},
+	"keywords": [
+		"react-native",
+		"honeywell"
+	],
+	"author": "Cristian Longo <cristian.longo@softlead.ro>",
+	"contributors": [],
+	"bugs": {
+		"url": "https://github.com/cristiansoftlead/rn-hw-scanner/issues"
+	},
+	"homepage": "https://github.com/cristiansoftlead/rn-hw-scanner#readme",
+	"license": "MIT",
+	"licenseFilename": "LICENSE",
+	"readmeFilename": "README.md",
+	"peerDependencies": {
+		"react": "19.*",
+		"react-native": "0.*"
+	},
+	"devDependencies": {
+		"react": "19.*",
+		"react-native": "0.*"
+	}
+}
